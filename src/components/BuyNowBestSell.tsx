@@ -23,7 +23,7 @@ export default function BuyNowBestSell({ cartItem }: any) {
                 {/* <button onClick={notify}>Notify!</button> */}
                 <Button onClick={notify} className="group bg-white hover:bg-transparent text-mybg hover:text-white scroll-m-20 text-xs font-semibold tracking-tight rounded-xl absolute bottom-2">
                     <ImHeart className="mr-2 h-8 w-8 group-hover:text-orange-600 duration300" />
-                    By Now
+                    Buy Now
                 </Button>
             </div>
             <ToastContainer
