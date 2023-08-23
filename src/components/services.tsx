@@ -25,7 +25,7 @@ export default function Services() {
                                     Free Delivery
                                 </h2>
                                 <p className="line-clamp-2 scroll-m-20  text-base font-semibold tracking-tight transition-colors ">
-                                    Free delivery on orders above 5000, relish exquisite dishes from home, no extra cost, easy online ordering. Memorable dining made affordable.
+                                    Free delivery on orders above 5000, relish exquisite dishes from home no extra cost easy online ordering. Memorable dining made affordable.
                                 </p>
                             </div>
                         </div>
@@ -41,7 +41,7 @@ export default function Services() {
                                     24/7 Service
                                 </h2>
                                 <p className="line-clamp-2 scroll-m-20  text-base font-semibold tracking-tight transition-colors ">
-                                    Uninterrupted 24/7 restaurant service offering delectable dishes, catering to customers' cravings and convenience, anytime, day or night.
+                                    Uninterrupted 24/7 restaurant service offering delectable dishes, catering to customers cravings and convenience, anytime, day or night.
                                 </p>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ export default function Services() {
                                     Money Back
                                 </h2>
                                 <p className="line-clamp-2 scroll-m-20  text-base font-semibold tracking-tight transition-colors ">
-                                    Customer satisfaction is our priority, backed by a reliable money-back guarantee. If you're not delighted with your order, we offer a prompt refund, no questions asked.
+                                    Customer satisfaction is our priority, backed by a reliable money-back guarantee. If youre not delighted with your order, we offer a prompt refund, no questions asked.
                                 </p>
                             </div>
                         </div>

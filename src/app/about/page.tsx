@@ -16,28 +16,28 @@ export default function About() {
                         MDQ Restaurant
                     </h1>
                     <p className="leading-7 [&:not(:first-child)]:mt-6 text-white">
-                        Welcome to MDQ Restaurant, where every bite is a journey of exquisite flavors and impeccable hospitality.
+                        Welcome to MDQ Restaurant where every bite is a journey of exquisite flavors and impeccable hospitality.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-orange-500 uppercase mt-7">
                         🍽️ Indulge in Excellence:
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-white">
-                        Savor the artistry of our culinary experts as they craft dishes that harmonize innovation with tradition. Our menu is a symphony of tastes, bringing together the finest ingredients to create gastronomic masterpieces that delight the senses.
+                        Savor the artistry of our culinary experts as they craft dishes that harmonize innovation with tradition. Our menu is a symphony of tastes bringing together the finest ingredients to create gastronomic masterpieces that delight the senses.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-orange-500 uppercase mt-7">
                         🌆 A Soothing Ambiance:
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-white">
-                        Step into a realm of elegance and charm. The warm ambiance of MDQ Restaurant sets the stage for unforgettable memories. Whether it's an intimate dinner, a celebratory gathering, or a casual meet-up, our space caters to every occasion.
+                        Step into a realm of elegance and charm. The warm ambiance of MDQ Restaurant sets the stage for unforgettable memories. Whether its an intimate dinner a celebratory gathering or a casual meet-up our space caters to every occasion.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-orange-500 uppercase mt-7">
                         🌍 Globally Inspired, Locally Rooted:
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-white">
-                        Experience a world of flavors curated with a local touch. From international classics to dishes inspired by regional treasures, MDQ Restaurant offers a diverse culinary voyage that celebrates both global cuisine and local heritage.
+                        Experience a world of flavors curated with a local touch. From international classics to dishes inspired by regional treasures MDQ Restaurant offers a diverse culinary voyage that celebrates both global cuisine and local heritage.
                     </p>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-white">
-                    Elevate your dining expectations at MDQ Restaurant. Reserve your table today and let us redefine your gastronomic journey. Your palate's desires await.
+                    Elevate your dining expectations at MDQ Restaurant. Reserve your table today and let us redefine your gastronomic journey. Your palates desires await.
                     </p>
                 </div>
             </div>
